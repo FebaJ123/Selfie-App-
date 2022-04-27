@@ -1,0 +1,21 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+color: white;
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+#camera{
+    width: 360px;
+    height: 240px;
+}
+
+img{
+    width: 250px;
+}
